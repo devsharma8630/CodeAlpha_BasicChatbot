@@ -1,4 +1,4 @@
-# CodeAlpha Task 4 – Basic Chatbot
+# CodeAlpha Task 3 – Basic Chatbot
 
 This project is created as part of **Task 4** of the **CodeAlpha Python Programming Internship**.
 
